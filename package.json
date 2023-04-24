@@ -2,5 +2,9 @@
   "name": "@matkretkurs/randomid-generator",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkretowski/RandomIdGenerator-NPMpackage.git"
+  }
 }
